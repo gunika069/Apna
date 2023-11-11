@@ -1,4 +1,4 @@
 # Apna
 This is my first repo
 <br>
-Author: Gunika Sharma
+Author: Gunika (gud going)
